@@ -1,4 +1,3 @@
-Store,Date,Temperature,Fuel_Price,MarkDown1,MarkDown2,MarkDown3,MarkDown4,MarkDown5,CPI,Unemployment,IsHoliday,Type,Size
 1,2010-02-05,42.31,2.572,,,,,,211.0963582,8.106,False,A,151315
 1,2010-02-12,38.51,2.548,,,,,,211.24216980000003,8.106,True,A,151315
 1,2010-02-19,39.93,2.5140000000000002,,,,,,211.2891429,8.106,False,A,151315
